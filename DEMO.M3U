@@ -4,8 +4,12 @@
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=132&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://archivos-cms.cinecolombia.com/images/_aliases/exhibition_poster/7/0/2/9/19207-1-esl-CO/2-Cineco-poster-480x670px.png", La Purga por siempre | REGIOFLIX
-http://ipeteve.com/REGIOFLIX180721/The.forever.purge.2021.1080p-dual-lat-SrRegio.Net.mkv
+http://ipeteve.com/REGIOFLIX180721/The.forever.purge.2021.1080p-SrRegio.Net.mkv
 
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/36190-193973-20210429093602.jpg", Justicia Implacable | REGIOFLIX
-http://ipeteve.com/REGIOFLIX180721/Justicia.Implacable.%282021%29.2021.1080P-SrRegio.Net.mkv
+http://ipeteve.com/REGIOFLIX180721/Justicia.Implacable.2021.1080P-SrRegio.Net.mkv
+
+
+#EXTINF:-1 group-title="peliculas" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/36404-482709-20210706093527.jpg", Space Jam Una Nueva Era |PhoenixDreamsTV
+http://ipeteve.com/REGIOFLIX180721/Space.Jam.Una.Nueva.Era.2021.1080P-SrRegio.Net.mkv
