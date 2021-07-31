@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1, DREIKOTV CANAL 24/7
+https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=1109200,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=854x480
