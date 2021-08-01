@@ -2,6 +2,10 @@
 
 
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) Spiderman 80s
+http://ipeteve.com/php/SR_REGIO_250721/regiotv2.php?c=260|User-Agent=megaplayer
+
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) caballerosdel zodiaco
 http://ipeteve.com/php/SR_REGIO_250721/regiotv2.php?c=291.m3u
 
