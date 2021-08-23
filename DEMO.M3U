@@ -4,7 +4,6 @@
 #EXTINF:-1, group-title="Nacionales" ,ONCE NINOS (CLASES)
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=3315&format=HLSAD&f=.m3u8
 
-
 #EXTINF:-1, group-title="Nacionales" ,AZTECA 7.3 (CLASES)
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=3316&format=HLSAD&f=.m3u8
 
@@ -111,11 +110,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbs
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=2882&format=HLSAD&f=.m3u8
 
 
-
-
-
-
-
 *** INFANTILES ***
 #EXTINF:-1, group-title="Infantiles" ,TOONCAST
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=108&format=HLSAD&f=.m3u8
@@ -163,9 +157,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbs
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=2591&format=HLSAD&f=.m3u8
 
 
-
 *** CINE ***
-
 #EXTINF:-1, group-title="Cine" ,A3CINE
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=3112&format=HLSAD&f=.m3u8
 
@@ -241,6 +233,9 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbs
 #EXTINF:-1, group-title="Cine" ,PARAMOUNT CHANNEL
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=1726&format=HLSAD&f=.m3u8
 
+#EXTINF:-1, group-title="Entretenimiento" ,FOX (STAR CHANNEL) 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=46&format=HLSAD&f=.m3u8
+
 #EXTINF:-1, group-title="Cine" ,FOX CINEMA SD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=1729&format=HLSAD&f=.m3u8
 
@@ -250,32 +245,37 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbs
 #EXTINF:-1, group-title="Cine" ,AZ CINEMA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=1787&format=HLSAD&f=.m3u8
 
-
-
-*** ENTRETENIMIENTO ***
-#EXTINF:-1, group-title="Entretenimiento" ,TELEMUNDO INTERNACIONAL HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=85&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, group-title="Entretenimiento" ,FOX 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=46&format=HLSAD&f=.m3u8
-
 #EXTINF:-1, group-title="Entretenimiento" ,SONY
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=48&format=HLSAD&f=.m3u8
 
 #EXTINF:-1, group-title="Entretenimiento" ,WARNER
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=52&format=HLSAD&f=.m3u8
 
-#EXTINF:-1, group-title="Entretenimiento" ,E!
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=55&format=HLSAD&f=.m3u8
+#EXTINF:-1, group-title="Entretenimiento" ,WARNER HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=205&format=HLSAD&f=.m3u8
 
 #EXTINF:-1, group-title="Entretenimiento" ,UNIVERSAL
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=57&format=HLSAD&f=.m3u8
 
-#EXTINF:-1, group-title="Entretenimiento" ,SYFY
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=59&format=HLSAD&f=.m3u8
+#EXTINF:-1, group-title="Entretenimiento" ,UNIVERSAL HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=207&format=HLSAD&f=.m3u8
 
 #EXTINF:-1, group-title="Entretenimiento" ,FX
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=60&format=HLSAD&f=.m3u8
+
+#EXTINF:-1, group-title="Entretenimiento" ,FX HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=209&format=HLSAD&f=.m3u8
+
+
+*** ENTRETENIMIENTO ***
+#EXTINF:-1, group-title="Entretenimiento" ,TELEMUNDO INTERNACIONAL HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=85&format=HLSAD&f=.m3u8
+
+#EXTINF:-1, group-title="Entretenimiento" ,E!
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=55&format=HLSAD&f=.m3u8
+
+#EXTINF:-1, group-title="Entretenimiento" ,SYFY
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=59&format=HLSAD&f=.m3u8
 
 #EXTINF:-1, group-title="Entretenimiento" ,A&E
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=62&format=HLSAD&f=.m3u8
@@ -318,15 +318,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbs
 
 #EXTINF:-1, group-title="Entretenimiento" ,FOX HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=201&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, group-title="Entretenimiento" ,WARNER HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=205&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, group-title="Entretenimiento" ,UNIVERSAL HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=207&format=HLSAD&f=.m3u8
-
-#EXTINF:-1, group-title="Entretenimiento" ,FX HD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=209&format=HLSAD&f=.m3u8
 
 #EXTINF:-1, group-title="Entretenimiento" ,TRUTV HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=215&format=HLSAD&f=.m3u8
