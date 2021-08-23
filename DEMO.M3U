@@ -88,7 +88,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbs
 #EXTINF:-1, group-title="Nacionales" ,TELEVISA PUEBLA
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=2312&format=HLSAD&f=.m3u8
 
-#EXTINF:-1, group-title="Nacionales" ,A+
+#EXTINF:-1   tvg-logo="Lista TV", A+
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=2316&format=HLSAD&f=.m3u8
 
 #EXTINF:-1, group-title="Nacionales" ,TVMAS
