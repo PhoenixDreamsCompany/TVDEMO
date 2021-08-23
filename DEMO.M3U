@@ -275,7 +275,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbs
 #EXTINF:-1, A&E
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=62&format=HLSAD&f=.m3u8
 
-#EXTINF:-1, tvg-name="AXN" group-title="Cine y Series" ,AXN
+#EXTINF:-1, tvg-name="AXN" group-title="Entretenimiento" ,AXN
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=64&format=HLSAD&f=.m3u8
 
 #EXTINF:-1, UNICABLE SD
