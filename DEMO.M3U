@@ -125,8 +125,8 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbs
 #EXTINF:-1, NICK
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=110&format=HLSAD&f=.m3u8
 
-#EXTINF:-1, DISNEY XD
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=111&format=Infantiles&f=.m3u8
+#EXTINF:-1, DISNEY XD, group-title="Infantiles"
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=111&format=HLSAD&f=.m3u8
 
 #EXTINF:-1, CARTOON NETWORK
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=112&format=HLSAD&f=.m3u8
