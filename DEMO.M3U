@@ -1,23 +1,23 @@
 #EXTM3U
 
 *** NACIONALES ***
-#EXTINF:-1, ONCE NINOS (CLASES)
+#EXTINF:-1, group-title="Nacionales" ,ONCE NINOS (CLASES)
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=3315&format=HLSAD&f=.m3u8
 
 
-#EXTINF:-1, AZTECA 7.3 (CLASES)
+#EXTINF:-1, group-title="Nacionales" ,AZTECA 7.3 (CLASES)
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=3316&format=HLSAD&f=.m3u8
 
-#EXTINF:-1, AZTECA UNO HD
+#EXTINF:-1, group-title="Nacionales" ,AZTECA UNO HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=7&format=HLSAD&f=.m3u8
 
-#EXTINF:-1, AZ CLIC HD
+#EXTINF:-1, group-title="Nacionales" ,AZ CLIC HD
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=11&format=HLSAD&f=.m3u8
 
-#EXTINF:-1, LAS ESTRELLAS
+#EXTINF:-1, group-title="Nacionales" ,LAS ESTRELLAS
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=17&format=HLSAD&f=.m3u8
 
-#EXTINF:-1, CANAL 5
+#EXTINF:-1, group-title="Nacionales" ,CANAL 5
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=20&format=HLSAD&f=.m3u8
 
 #EXTINF:-1, AZTECA 7
