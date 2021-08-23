@@ -272,10 +272,10 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbs
 #EXTINF:-1, FX
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=60&format=HLSAD&f=.m3u8
 
-#EXTINF:-1, A&E
+#EXTINF:-1, group-title="Entretenimiento" ,A&E
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=62&format=HLSAD&f=.m3u8
 
-#EXTINF:-1, group-title="Entretenimiento" ,AXN
+#EXTINF:-1, group-title="Entretenimientoo" ,AXN
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=c8mfvbsssmetx5d&lchId=64&format=HLSAD&f=.m3u8
 
 #EXTINF:-1, UNICABLE SD
