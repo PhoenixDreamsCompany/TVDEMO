@@ -1,8 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Lista PDC", irg
-https://190.60.37.69:8015/play/a028/index.m3u8
+#EXTINF:-1 group-title="Lista 30", irg
+http://190.60.37.69:8015/play/a028/index.m3u8
 http://190.61.102.67:31589/play/a017/index.m3u8
 http://fb1.mundofuturo.co/auth/fd4aKJUUetL9PmreX8-AUIhZSCU16SN4Y_pJQ2AXS-VGGRHHJbPdhOAUZYKQHrIiR0Xio4zYpHeYeO7I0FkNE2AXJ8zGmYypEAb7KOL_9mawGwWQQU0Fdy6pMwRgmLq-jE37f6Lazb-2B85LMp4ygAH77yoBRblDv2pRAngaMJkU1tE5bs7GCkfDt4MnrDrTAaqXl2rTVIeuMBePfwnBHMiAhp3u_edtQtVfLeS3NhjUhvNWdlUFEZzizVJxZhseh-PzMlnnI2n-ixiAUGyC3eFaGbpRLDSt02yCHgBw6AeHhaU0DEsLf3if-ze5tcNML7YhwQc82AnnaWCK_105CyYoaQxy1b-qm233kqCbnkmhGcuy1WhQd8up5kPfvQ3Dk2IuTGcqz-ZUrnZpHcYJhk2IXq1Y6mVwnvi-WSGDsOjrTjdCwpxHaFgh9a6QJ8HQq_7N6oGL6Ss-6INobmEC-TiYZgl5hkM904zROAHUlp8KTiDI4ZzmChCacjm_ao65BajmrX2tH7ysnYCEqL9RDEJDBUZLahddzIP7oMUSHr3bOAqldbElqnkjHKhkj0RmxzXoKyCqO-rZMCixpVNTiog2QIZ1pQSxJxj6sDWikRI
 
