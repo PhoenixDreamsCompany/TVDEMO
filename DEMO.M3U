@@ -1,5 +1,8 @@
 #EXTM3U
 
+https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml
+
+
 #EXTINF:-1 group-title="Lista 30", A&E1
 
 http://bgapp.live/play/totalp1s-707.php?k=blckghost&tokenn=blacghost&c=62
